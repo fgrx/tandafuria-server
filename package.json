@@ -29,7 +29,7 @@
     "@nestjs/platform-express": "^6.11.5",
     "@nestjsplus/cookies": "^1.0.2",
     "@nestjsplus/redirect": "^1.0.0",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "g": "^2.0.1",
     "mongoose": "^5.8.11",
     "passport": "^0.4.1",
